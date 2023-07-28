@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 - Студент: [Evgenii](https://up.htmlacademy.ru/adaptive/29/user/1864249).
-- Наставник: `Виктория Никитина`.
+- Наставник: `Victoria Nikitina`.
 
 ---
 
@@ -16,7 +16,7 @@ _`.github`, `.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `pa
 
 ---
 
-### Памятка
+# Памятка
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
